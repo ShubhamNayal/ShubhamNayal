@@ -11,9 +11,9 @@
 ---
 
 - 🧪 I build cross-browser **end-to-end test frameworks** with **Playwright** and **TypeScript** (Page Object Model, fixtures, multi-reporter CI).
-- 🔭 Currently working on **[GoHighLevel](www.gohighlevel.com)**.
+- 🔭 Currently working on **[GoHighLevel] www.gohighlevel.com **.
 - 🌱 Currently learning **performance testing** and **AI-assisted test generation**.
-- 💬 Ask me about **Playwright, Selenium, TypeScript, API testing, CI/CD with GitHub Actions**.
+- 💬 Ask me about **AI-Testing, AI automation, Playwright, Selenium, Appium, JAVA, TypeScript, API testing, CI/CD with GitHub Actions**.
 - 📫 Reach me at **snayal1865@gmail.com**.
 - ⚡ Fun fact: a well-named test case is worth a thousand comments.
 

@@ -40,9 +40,20 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
+<!--
+  Top-languages card:
+  - exclude_repo=ScrapData_Selenium → that repo contains ~4 MB of scraped HTML
+    pages that would otherwise dominate the chart and mis-represent the stack
+    actually used day-to-day. Add more repos to the comma-separated list to
+    exclude them too.
+  - langs_count=8         → show top 8 languages
+  - hide=html             → also hide HTML globally (Selenium scrapers and a
+    couple of small repos contain HTML snapshots that aren't really "code").
+    Remove this if you start writing real HTML/UI work.
+-->
 <p align="center">
   <a href="https://github.com/ShubhamNayal">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamNayal&show_icons=true&locale=en&hide_border=true&layout=compact&theme=algolia" alt="Top Languages" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamNayal&show_icons=true&locale=en&hide_border=true&layout=compact&theme=algolia&langs_count=8&exclude_repo=ScrapData_Selenium&hide=html" alt="Top Languages" />
   </a>
   <a href="https://github.com/ShubhamNayal">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShubhamNayal&show_icons=true&count_private=true&hide_border=true&theme=algolia" alt="GitHub Stats" />
